@@ -3,6 +3,7 @@
 ### or you can connect with me at [Linkedin]
 
 <br />
+
 ### I am currently a Student at [Lambda] Coding School
 
 - 🤓 I’m currently studying Computer Science
