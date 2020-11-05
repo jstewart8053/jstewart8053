@@ -1,15 +1,14 @@
 ## Hello! I'm Jen... you can find out more about me at [website] 👋
 
+### or you can connect with me at [Linkedin]
+
+<br />
 ### I am currently a Student at [Lambda] Coding School
 
 - 🤓 I’m currently studying Computer Science
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love electronics, and often make projects from my favorite hobby website [instructables]
-
-### Connect with me:
-
-[Linkedin]
 
 <br />
 
@@ -26,7 +25,6 @@
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.gitubusercontent.com/github/explore/
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 </details>
