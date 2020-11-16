@@ -3,14 +3,14 @@
 ## Hello! I'm Jen... please take a moment to find out more about me at my portfolio [website] 👋
 
 ### Or you can connect with me at [Linkedin] ☺️
-### Feel free to look over my [Resume] ☺️
+### Feel free to look over my [Resume] 😃
 
 <br />
 
 ### I am currently a Student at [Lambda] Coding School
 
-- 🤓 I’m currently studying Computer Science
-- 👯 I’m looking to collaborate with other content creators
+- 🤓 I’m currently studying Computer Science, and will soon be graduating
+- 👯 I’m looking to become a part of an amazing company!
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love electronics, and often make projects from my favorite hobby website [instructables]
 
