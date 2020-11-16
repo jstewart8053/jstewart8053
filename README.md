@@ -1,4 +1,4 @@
-![](Banner.gif)
+![website](Banner.gif)
 
 ## Hello! I'm Jen... an awesome Full-Stack Web Developer! You can find out more about me at my portfolio [website] 👋
 
