@@ -3,7 +3,6 @@
 ## Hello! I'm Jen... please take a moment to find out more about me at my portfolio [website] 
 
 ### Or you can connect with me at [Linkedin] ☺️
-### Feel free to look over my [Resume] 😃
 
 <br />
 
