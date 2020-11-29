@@ -38,5 +38,4 @@
 [codepen]: https://codepen.io/jen-stewart
 [linkedin]: https://www.linkedin.com/in/jennifer-stewart-39aa5759
 [lambda]: https://lambdaschool.com
-[Resume]: https://docs.google.com/document/d/1leMUor-Vdi7K9tUuE-tEua-QId31FcUiLSz-X4Coeeg/edit?usp=sharing
 [instructables]: https://www.instructables.com
