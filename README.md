@@ -36,6 +36,6 @@
 
 [website]: https://jstewart-portfolio-bootstrap.vercel.app
 [codepen]: https://codepen.io/jen-stewart
-[linkedin]: https://www.linkedin.com/in/jennifer-stewart-39aa5759
+[linkedin]: https://www.linkedin.com/in/jen-stewart-feb
 [lambda]: https://lambdaschool.com
 [instructables]: https://www.instructables.com
