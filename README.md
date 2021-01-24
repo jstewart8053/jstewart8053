@@ -1,17 +1,15 @@
 ![website](Banners.gif)
 
-## Hello! I'm Jen... and my passion is developing an amazing user experience!
+## Hello! I'm Jen... and my passion is developing amazing user experiences!
 ## Please take a moment to find out more about me at my portfolio [website] 
 
 ### Or you can connect with me at [Linkedin] ☺️
 
 <br />
 
-### I am currently a Student at [Lambda] Coding School
 
-- 🤓 I’m currently studying Computer Science, and will soon be graduating
 - 👯 I’m looking to become a part of an amazing company!
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love electronics, and often make projects from my favorite hobby website [instructables]
 
 <br />
