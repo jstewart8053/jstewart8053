@@ -8,8 +8,9 @@
 <br />
 
 
-- 👯 I’m looking to become a part of an amazing company!
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 👯 I am always working on group projects, work projects, and personal projects!
+- ♡ Go to jenstewart.net to check out my latest work!
+- 🥅 2021 Goals: Learn more about authentication methods, and different tech stacks.
 - ⚡ Fun fact: I love electronics, and often make projects from my favorite hobby website [instructables]
 
 <br />
@@ -33,7 +34,7 @@
 </p>
 
 
-[website]: https://jstewart-portfolio-bootstrap.vercel.app
+[website]: https://jenstewart.net
 [codepen]: https://codepen.io/jen-stewart
 [linkedin]: https://www.linkedin.com/in/jen-stewart-feb
 [lambda]: https://lambdaschool.com
