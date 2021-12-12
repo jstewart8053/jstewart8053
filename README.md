@@ -1,17 +1,19 @@
 ![website](Banners.gif)
 
-## Hello! I'm Jen... and my passion is developing amazing user experiences!
+## Hello! I'm Jen... I started learning Web Development as a hobby in 2016. After completing my first project I was hooked! I enrolled and graduated from Bloom Institute of Technology (formerly Lambda School) in December of 2020. My passion is developing amazing user experiences! There is always more to learn, and plenty to teach in Development... hard work pays off!
+
 ## Please take a moment to find out more about me at my portfolio [website] 
 
 ### Or you can connect with me at [Linkedin] ☺️
 
 <br />
 
-
-- 👯 I am always working on group projects, work projects, and personal projects!
-- ♡ Go to jenstewart.net to check out my latest work!
-- 🥅 2021 Goals: Learn more about authentication methods, and different tech stacks.
-- ⚡ Fun fact: I love electronics, and often make projects from my favorite hobby website [instructables]
+- 🥳 January 4th, 2022 will mark my first year of working as a Professional Full-Stack Web Developer! 
+- 👯 Currently I am working with a team of awesome Developers in Kansas City, Missouri!
+- ♡ My favorite quote is “For every minute you are angry you lose sixty seconds of happiness.” ― Ralph Waldo Emerson
+- 🤓 I believe code should be short, clean, concise and well-documented. 
+- 🥅 2022 Goals: Learn Typescript and start working on a new big personal project!
+- ⚡ Fun fact: Prior to becoming a Developer I worked in the Healthcare Administration field for a Fortune 25 company.
 
 <br />
 
@@ -37,5 +39,4 @@
 [website]: https://jenstewart.net
 [codepen]: https://codepen.io/jen-stewart
 [linkedin]: https://www.linkedin.com/in/jen-stewart-feb
-[lambda]: https://lambdaschool.com
 [instructables]: https://www.instructables.com
