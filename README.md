@@ -1,4 +1,4 @@
-![website](Banners.gif)
+![website](banner.gif)
 
 ## Hello! I'm Jen... 
 ### I started learning Web Development as a hobby in 2016. After completing my first project I was hooked! I enrolled and graduated from Bloom Institute of Technology (formerly Lambda School) in December of 2020. My passion is developing amazing user experiences! There is always more to learn, and plenty to teach in Development... hard work pays off!
