@@ -10,7 +10,7 @@
 <br />
 
 - 🥳 January 4th, 2022 will mark my first year of working as a Professional Full-Stack Web Developer! 
-- 👯 Currently I am working with a team of awesome Developers remotely for a Tech/Education company named K16 Solutions!
+- 👯 Currently I am working with a team of awesome Developers!
 - ♡ My favorite quote is “For every minute you are angry you lose sixty seconds of happiness.” ― Ralph Waldo Emerson
 - 🤓 I believe code should be short, clean, concise and well-documented. 
 - 🥅 2022 Goals: Learn Typescript, more about AWS and start working on a new big personal project!
