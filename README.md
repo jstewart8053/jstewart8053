@@ -5,7 +5,7 @@
 
 ### Please take a moment to find out more about me at my portfolio [website] 
 
-### Or you can connect with me at [Linkedin] ☺️
+### Connect with me on [Linkedin] ☺️
 
 <br />
 
