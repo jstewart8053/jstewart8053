@@ -1,7 +1,7 @@
 ![website](banner.gif)
 
 ## Hello! I'm Jen... 
-### I started learning Web Development as a hobby in 2016. After completing my first project I was hooked! I enrolled and graduated from Bloom Institute of Technology (formerly Lambda School) in December of 2020. My passion is developing amazing user experiences! There is always more to learn, and plenty to teach in Development... hard work pays off!
+### I started learning Web Development as a hobby in 2016. After completing my first project I was hooked! I enrolled and graduated from Bloom Institute of Technology (formerly Lambda School) in December of 2020 (6 month bootcamp). My passion is developing amazing user experiences! There is always more to learn, and plenty to teach in Development... hard work pays off!
 
 ### Please take a moment to find out more about me at my portfolio [website] 
 
@@ -9,11 +9,10 @@
 
 <br />
 
-- 🥳 January 4th, 2022 will mark my first year of working as a Professional Full-Stack Web Developer! 
-- 👯 Currently I am working with a team of awesome Developers!
+- 👯 I love working with teams of awesome Developers!
 - ♡ My favorite quote is “For every minute you are angry you lose sixty seconds of happiness.” ― Ralph Waldo Emerson
 - 🤓 I believe code should be short, clean, concise and well-documented. 
-- 🥅 2022 Goals: Learn Typescript, more about AWS and start working on a new big personal project!
+- 🥅 2023 Goals: Learn Typescript, more about AWS and start working on a new big personal project!
 - ⚡ Fun fact: Prior to becoming a Developer I worked in the Healthcare Administration field for a Fortune 25 company.
 
 <br />
