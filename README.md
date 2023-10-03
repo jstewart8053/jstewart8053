@@ -12,7 +12,7 @@
 - 👯 I love working with teams of awesome Developers!
 - ♡ My favorite quote is “For every minute you are angry you lose sixty seconds of happiness.” ― Ralph Waldo Emerson
 - 🤓 I believe code should be short, clean, concise and well-documented. 
-- 🥅 2023 Goals: Learn Typescript, more about AWS and start working on a new big personal project!
+- 🥅 2023 Goals: Learn Next.js, more about AWS and start working on a new big personal project!
 - ⚡ Fun fact: Prior to becoming a Developer I worked in the Healthcare Administration field for a Fortune 25 company.
 
 <br />
